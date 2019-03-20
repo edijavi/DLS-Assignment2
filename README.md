@@ -1,5 +1,9 @@
 # Dijkstra's algorithm Contract
 
+<p align="center">
+  <img src ="Dijkstra_Animation.gif"/>
+</p>
+
 ## Legal Staff
 
 ### Who-is-Who
