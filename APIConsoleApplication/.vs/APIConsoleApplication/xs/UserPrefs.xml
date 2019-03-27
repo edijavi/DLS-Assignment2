@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8EB717D7-BBF9-47D7-8E02-635479EEEEF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIConsoleApplication/Program.cs">
+    <Files>
+      <File FileName="APIConsoleApplication/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.APIConsoleApplication FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

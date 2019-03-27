@@ -1,0 +1,14 @@
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/bin/Debug/netcoreapp2.2/APICalculator.deps.json
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/bin/Debug/netcoreapp2.2/APICalculator.runtimeconfig.json
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/bin/Debug/netcoreapp2.2/APICalculator.runtimeconfig.dev.json
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/bin/Debug/netcoreapp2.2/APICalculator.dll
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/bin/Debug/netcoreapp2.2/APICalculator.pdb
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.csprojAssemblyReference.cache
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.csproj.CoreCompileInputs.cache
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.RazorAssemblyInfo.cache
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.RazorAssemblyInfo.cs
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.AssemblyInfoInputs.cache
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.AssemblyInfo.cs
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.RazorTargetAssemblyInfo.cache
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.dll
+/media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.pdb
