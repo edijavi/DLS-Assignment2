@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3A30CA36-DFCF-45C7-B513-2E736D08018C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="APICalculator/Controllers/ValuesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APICalculator/Models/Calculator.cs">
     <Files>
-      <File FileName="APICalculator/Controllers/ValuesController.cs" Line="7" Column="31" />
+      <File FileName="APICalculator/Models/Calculator.cs" Line="22" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
