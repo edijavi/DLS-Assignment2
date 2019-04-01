@@ -1,0 +1,7 @@
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\APIConsoleApplication.exe.config
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\APIConsoleApplication.exe
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\APIConsoleApplication.pdb
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.exe
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.pdb
