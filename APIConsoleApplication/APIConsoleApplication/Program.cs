@@ -1,11 +1,18 @@
-﻿using System;
+﻿using APIConsoleApplication.Models;
+using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
 using System.Globalization;
+using System.Net.Http;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace APIConsoleApplication
 {
     class MainClass
     {
+        const string Url = "http://localhost:44349/api/";
+
         public static void Main(string[] args)
         {
             int i;
@@ -92,6 +99,50 @@ namespace APIConsoleApplication
                         }
                 }
             }
+        }
+
+        public static async Task<IEnumerable<Calc>> ObtenerResultadoAdd()
+        {
+            List<Calc> resultados;
+            using (var client = new HttpClient())
+            {
+                var response = await client.GetStringAsync(Url + "add");
+                await Task.Factory.StartNew(() => JsonConvert.DeserializeObject<List<Calc>>(response));
+            }
+            return resultados;
+        }
+
+        public static async Task<IEnumerable<Calc>> ObtenerResultadoSub()
+        {
+            List<Calc> resultados;
+            using (var client = new HttpClient())
+            {
+                var response = await client.GetStringAsync(Url + "sub");
+                await Task.Factory.StartNew(() => JsonConvert.DeserializeObject<List<Calc>>(response));
+            }
+            return resultados;
+        }
+
+        public static async Task<IEnumerable<Calc>> ObtenerResultadoMult()
+        {
+            List<Calc> resultados;
+            using (var client = new HttpClient())
+            {
+                var response = await client.GetStringAsync(Url + "mult");
+                await Task.Factory.StartNew(() => JsonConvert.DeserializeObject<List<Calc>>(response));
+            }
+            return resultados;
+        }
+
+        public static async Task<IEnumerable<Calc>> ObtenerResultadoDiv()
+        {
+            List<Calc> resultados;
+            using (var client = new HttpClient())
+            {
+                var response = await client.GetStringAsync(Url + "div");
+                await Task.Factory.StartNew(() => JsonConvert.DeserializeObject<List<Calc>>(response));
+            }
+            return resultados;
         }
     }
 }

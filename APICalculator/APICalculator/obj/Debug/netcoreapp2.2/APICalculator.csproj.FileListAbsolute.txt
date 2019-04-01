@@ -12,3 +12,17 @@
 /media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.RazorTargetAssemblyInfo.cache
 /media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.dll
 /media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APICalculator/APICalculator/obj/Debug/netcoreapp2.2/APICalculator.pdb
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\bin\Debug\netcoreapp2.2\APICalculator.deps.json
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\bin\Debug\netcoreapp2.2\APICalculator.runtimeconfig.json
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\bin\Debug\netcoreapp2.2\APICalculator.runtimeconfig.dev.json
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\bin\Debug\netcoreapp2.2\APICalculator.dll
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\bin\Debug\netcoreapp2.2\APICalculator.pdb
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.csprojAssemblyReference.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.RazorAssemblyInfo.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.RazorAssemblyInfo.cs
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.AssemblyInfoInputs.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.AssemblyInfo.cs
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.RazorTargetAssemblyInfo.cache
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.dll
+C:\Users\Mi PC\workspaceLargeSys\DLS-Assignment2\APICalculator\APICalculator\obj\Debug\netcoreapp2.2\APICalculator.pdb
