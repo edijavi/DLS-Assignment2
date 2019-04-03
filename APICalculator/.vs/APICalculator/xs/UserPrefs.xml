@@ -1,7 +1,15 @@
 ﻿<Properties StartupConfiguration="{3A30CA36-DFCF-45C7-B513-2E736D08018C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="APICalculator/Models/Calculator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APICalculator/Properties/launchSettings.json">
     <Files>
       <File FileName="APICalculator/Models/Calculator.cs" Line="22" Column="23" />
+      <File FileName="APICalculator/Program.cs" Line="1" Column="1" />
+      <File FileName="APICalculator/Startup.cs" Line="44" Column="16" />
+      <File FileName="APICalculator/Controllers/DivisionController.cs" Line="1" Column="1" />
+      <File FileName="APICalculator/Controllers/MultiplyController.cs" Line="1" Column="1" />
+      <File FileName="APICalculator/Controllers/SubtractController.cs" Line="12" Column="24" />
+      <File FileName="APICalculator/appsettings.json" Line="1" Column="1" />
+      <File FileName="APICalculator/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="APICalculator/Properties/launchSettings.json" Line="18" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
