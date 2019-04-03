@@ -16,3 +16,14 @@ C:/Users/Mi PC/workspaceLargeSys/DLS-Assignment2/APIConsoleApplication/APIConsol
 /media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APIConsoleApplication/APIConsoleApplication/bin/Debug/Newtonsoft.Json.pdb
 /media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APIConsoleApplication/APIConsoleApplication/bin/Debug/Newtonsoft.Json.xml
 /media/rafa/HDD/EASV - Software Engineer/Development of Large Systems/Projects/DLS-Assignment2/APIConsoleApplication/APIConsoleApplication/obj/x86/Debug/APIConsoleApplication.csproj.CopyComplete
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\APIConsoleApplication.exe.config
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\APIConsoleApplication.exe
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\APIConsoleApplication.pdb
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.csprojAssemblyReference.cache
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.csproj.CopyComplete
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.exe
+C:\Users\edila\Desktop\Work\CSharp\DLS-Assignment2\APIConsoleApplication\APIConsoleApplication\obj\x86\Debug\APIConsoleApplication.pdb
